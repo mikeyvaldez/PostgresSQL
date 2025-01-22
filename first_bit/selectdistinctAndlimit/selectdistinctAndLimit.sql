@@ -1,0 +1,10 @@
+
+
+
+
+
+SELECT DISTINCT
+genre
+FROM books
+ORDER BY genre ASC
+LIMIT 5
